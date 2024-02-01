@@ -1,4 +1,4 @@
-### Virtual DOM
+##### Virtual DOM
 
 Virtual DOM is based on differnting algorithm in which it compares two trees in react and updates that part of the tree which is changes
 
