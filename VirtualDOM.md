@@ -1,8 +1,8 @@
-##### Virtual DOM
+# Virtual DOM
 
 Virtual DOM is based on differnting algorithm in which it compares two trees in react and updates that part of the tree which is changes
 
-## React Fiber
+### React Fiber
 
 Fibers are a much lower-level abstraction than application developers typically think about.
 
