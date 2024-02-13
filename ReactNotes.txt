@@ -1,0 +1,2 @@
+What is the difference between useCallback and useeffect hook?
+=>useeffect hook is used to rerun the callack function when the dependency array will change and usecallback function is used to optimie the function because it wworks on the memorization principle that it will also run when the dependencies value will change but it is different from useeffect hook.
