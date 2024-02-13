@@ -108,6 +108,7 @@ export default RandomPassGen;
 //useEffect hook is ued to sychronize the components
 //useCallback hook is used where if dependency will change then optimize the function vaue
 //useEffect hook is ued to rerun the function if some of the depemdecy will change
+//useRef hook
 //now the major challenge is to copy the value incopy clipboard
 
 //1.input range copy that value
