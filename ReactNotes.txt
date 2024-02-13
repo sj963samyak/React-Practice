@@ -1,2 +1,7 @@
 What is the difference between useCallback and useeffect hook?
 =>useeffect hook is used to rerun the callack function when the dependency array will change and usecallback function is used to optimie the function because it wworks on the memorization principle that it will also run when the dependencies value will change but it is different from useeffect hook.
+
+=>React Router 
+1.React router is used to created by using the route provider and and we have created the router by using the option router
+in this we have reload the url by using the path and also 
+outlet rest part remain same header and footer will remain same outlet part will
